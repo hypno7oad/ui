@@ -1,1 +1,1 @@
-export {default} from './DefaultContent'
+export {default as DefaultContent} from './DefaultContent'
